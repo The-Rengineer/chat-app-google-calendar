@@ -1,0 +1,13 @@
+langchain
+langchain_community
+langchain_openai
+chromadb
+openai
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+pytz
+fastapi
+uvicorn
+python-multipart
