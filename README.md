@@ -1,7 +1,4 @@
 # LangChain-Powered Google Calendar Chatbot
-
-## I am working on this doc and will update very soon
-
 This app leverages **LangChain** to enable conversations with a bot about your personal **Google Calendar**.
 
 ---
@@ -22,6 +19,8 @@ This app leverages **LangChain** to enable conversations with a bot about your p
 
 ### **[Google Calendar Setup]**
 1. Log in with your Google account and ensure access to your calendar is enabled.
+2. Create Credentials and obtain a JSON file.
+3. Place the JSON file in the root directory and rename `xxx.json` to `credentials.json`.
 
 ---
 
